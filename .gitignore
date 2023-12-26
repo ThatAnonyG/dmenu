@@ -4,4 +4,5 @@ dmenu_path
 dmenu
 *.bak
 *.orig
+*.rej
 stest
